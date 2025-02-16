@@ -30,13 +30,13 @@ Here are some ideas to get you started:
 
 ## Contacto 📫
 ¡No dudes en contactarme si quieres colaborar o tienes alguna pregunta!
-- Correo: (mailto:mauroarias146@gmail.com)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mauro-romero-b284911b0/)
+- Correo: [correo-personal](mauroarias146@gmail.com)
+- LinkedIn: [Perfil-LinkedIn](https://www.linkedin.com/in/mauro-romero-b284911b0/)
   
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical&langs_count=5)
 
