@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm Systems Engineering student passionate about s
 ## Contact 📫
 Feel free to reach out if you'd like to collaborate or have any questions!
 - Email: [mauroarias146@gmail.com](mailto:mauroarias146@gmail.com)
-- LinkedIn: [Mauro Romero](https://www.linkedin.com/in/mauro-romero-b284911b0/)
+- LinkedIn: [LinkedIn-Profile](https://www.linkedin.com/in/mauro-romero-b284911b0/)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
