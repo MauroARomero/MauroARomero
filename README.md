@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 
 ## Contacto 📫
 ¡No dudes en contactarme si quieres colaborar o tienes alguna pregunta!
-- Correo: [tuemail@example.com](mailto:tuemail@example.com)
-- LinkedIn: [Tu perfil de LinkedIn](enlace)
+- Correo: [tuemail@example.com](mailto:mauroarias146@gmail.com)
+- LinkedIn: [Tu perfil de LinkedIn](https://www.linkedin.com/in/mauro-romero-b284911b0/)
   
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
