@@ -12,28 +12,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hola, soy Mauro 👋
+# Hi, I'm Mauro 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy un estudiante de Ingeniería de Sistemas en mi 8° semestre, apasionado por el desarrollo de software y la tecnología. Aquí encontrarás algunos de mis proyectos personales y contribuciones.
+Welcome to my GitHub profile! I'm Systems Engineering student passionate about software development and technology. Here, you'll find some of my personal projects and contributions.
 
-## Habilidades técnicas 💻
-- **Lenguajes de programación**: Java, Python, JavaScript
-- **Desarrollo web**: HTML, CSS, JavaScript
-- **Sistemas operativos**: Linux (Ubuntu, Debian)
-- **Herramientas**: Git, Docker, Bash,zsh
+## Technical Skills 💻
+- **Programming Languages**: Java, Python, JavaScript
+- **Web Development**: HTML, CSS, JavaScript
+- **Operating Systems**: Linux (Ubuntu, Debian)
+- **Tools**: Git, Docker, Bash, Zsh
 
-## Proyectos destacados 🚀
-- [Proyectos destacados](https://github.com/MauroARomero?tab=repositories) 
+## Featured Projects 🚀
+- [Featured Projects](https://github.com/MauroARomero?tab=repositories)
 
-## Contacto 📫
-¡No dudes en contactarme si quieres colaborar o tienes alguna pregunta!
-- Correo: (mauroarias146@gmail.com)
-- LinkedIn: (https://www.linkedin.com/in/mauro-romero-b284911b0/)
-  
+## Contact 📫
+Feel free to reach out if you'd like to collaborate or have any questions!
+- Email: [mauroarias146@gmail.com](mailto:mauroarias146@gmail.com)
+- LinkedIn: [Mauro Romero](https://www.linkedin.com/in/mauro-romero-b284911b0/)
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical&langs_count=5)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MauroARomero&show_icons=true&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MauroARomero&layout=compact&theme=radical&langs_count=5)
 
