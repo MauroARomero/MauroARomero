@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 - **Herramientas**: Git, Docker, Bash,zsh
 
 ## Proyectos destacados 🚀
-- [Nombre del proyecto 1](enlace) - Breve descripción.
-- [Nombre del proyecto 2](enlace) - Breve descripción.
+- [Proyectos destacados](https://github.com/MauroARomero?tab=repositories) 
 
 ## Contacto 📫
 ¡No dudes en contactarme si quieres colaborar o tienes alguna pregunta!
